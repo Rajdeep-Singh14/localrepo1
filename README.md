@@ -1,4 +1,4 @@
 # this is my local repo
-Name=Rajdeep Singh
+Name=Rajdeep Singh(GATech)
 <br>
 Trying
